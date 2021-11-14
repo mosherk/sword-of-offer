@@ -18,3 +18,4 @@ function Find(target, array)
     }
     return false;
 }
+Find(5,[[1,3,4],[2,4,7],[3,5,8]])
